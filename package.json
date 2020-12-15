@@ -1,0 +1,24 @@
+{
+  "name": "shopping-cart-mini",
+  "version": "1.0.0",
+  "description": "Shopping cart mini based on carty.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacintogl82/shopping-cart-mini.git"
+  },
+  "keywords": [
+    "shopping",
+    "cart",
+    "mini"
+  ],
+  "author": "Jacinto García López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacintogl82/shopping-cart-mini/issues"
+  },
+  "homepage": "https://github.com/jacintogl82/shopping-cart-mini#readme"
+}
